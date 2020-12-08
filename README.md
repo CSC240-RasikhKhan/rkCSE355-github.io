@@ -1,7 +1,5 @@
-# Kirkpatrick's Point Location
-An interactive implementation of Kirkpatrick's point location algorithm for CSE(355) (Computational Geometry). View the program at http://rkCSE355-github.io/point-location. 
-
---- 
+# Point Location Using Kirkpatrick's Method
+An interactive implementation of Kirkpatrick's point location algorithm for CSE(355) (Computational Geometry). View the program at http://rkCSE355-github.io/point-location/ 
 
 ## Instructions
 
